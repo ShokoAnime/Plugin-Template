@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ShokoAnime/ShokoServer/master/Shoko.BuildTools/manifest.schema.json",
+  "id": "00000000-0000-0000-0000-000000000001",
+  "type": "package",
+  "name": "Template",
+  "overview": "A Shoko plugin.",
+  "authors": "",
+  "repository_url": "",
+  "releases": []
+}
